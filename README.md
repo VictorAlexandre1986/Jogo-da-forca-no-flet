@@ -26,4 +26,4 @@ python run jogo_forca.py
 ```
 ## Screenshot
 
-<img src="">
+<img src="screenshot.png">
